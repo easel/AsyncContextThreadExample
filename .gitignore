@@ -1,0 +1,7 @@
+.vs
+packages
+*~
+*.swp
+Debug
+Release
+bin
